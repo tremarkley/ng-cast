@@ -1,2 +1,2 @@
 #ng-cast
-This is a project I completed as a student at [hackreactor](http://hackreactor.com). This project was worked on with a pair.
+Video player app implemented using angular.js and YouTube API
